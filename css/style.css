@@ -497,6 +497,9 @@ h6, .h6 {
   border-width: 5px;
   overflow: auto;
 }
+#nobottommargin {
+  margin-bottom: 0px;
+}
 
 hr {
   margin-top: 1rem;
@@ -9352,7 +9355,7 @@ textarea.form-control {
   font-size: 14px;
   background-color: gray !important;
   padding: 1em 0;
-  margin-bottom: 0px !important;
+  margin: 0px !important;
   padding-bottom: 0px !important; }
   .ftco-footer .ftco-footer-widget {
     width: 100%;
