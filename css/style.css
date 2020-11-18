@@ -3969,7 +3969,7 @@ input[type="button"].btn-block {
   margin-left: 1.25rem; }
 
   #hire-me-button {
-    font-size: 100px;
+    font-size: 10vw;
     width: 50%;
     border-radius: 30px;
     padding: 10px;
@@ -9351,7 +9351,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 14px;
   background-color: gray !important;
-  padding: 6em 0;
+  padding: 1em 0;
   margin-bottom: 0px !important;
   padding-bottom: 0px !important; }
   .ftco-footer .ftco-footer-widget {
