@@ -200,7 +200,11 @@ ul ol {
 .todo-wrapper #save-button {
     background-color: #49B749;
 }
-
+.col-sm-6 img{
+  width: 100%;
+  margin-bottom: 1.5rem !important;
+  margin-top: 1.5rem !important;
+}
 dt {
   font-weight: 700; }
 
